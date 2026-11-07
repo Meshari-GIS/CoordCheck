@@ -15,7 +15,7 @@
 ## Installation and Usage
 
 1. Go to **Releases** and download version **v2.0.12**.
-2. Open `CoordCheck2.0.12` and click **Install Add-In**.
+2. Open `CoordCheck2.0.13` and click **Install Add-In**.
 3. Launch ArcGIS Pro and navigate to **Data Quality → CoordCheck**.
 4. Select the input data, configure the required settings, and run the tool.
 
