@@ -32,6 +32,3 @@
 
 To report issues or suggest improvements, please open a GitHub **Issue** and include your ArcGIS Pro version, input data type, and steps to reproduce the problem.
 
----
-
-**© 2026 Meshari AlZahrani. All rights reserved.**
