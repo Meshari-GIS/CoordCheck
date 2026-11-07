@@ -15,7 +15,7 @@
 ## Installation and Usage
 
 1. Go to **Releases** and download version **v2.0.12**.
-2. Open `CoordCheck2.0.12.esriAddinX` and click **Install Add-In**.
+2. Open `CoordCheck2.0.12` and click **Install Add-In**.
 3. Launch ArcGIS Pro and navigate to **Data Quality → CoordCheck**.
 4. Select the input data, configure the required settings, and run the tool.
 
@@ -33,7 +33,5 @@
 To report issues or suggest improvements, please open a GitHub **Issue** and include your ArcGIS Pro version, input data type, and steps to reproduce the problem.
 
 ---
-
-**Developed by:** Meshari AlZahrani
 
 **© 2026 Meshari AlZahrani. All rights reserved.**
