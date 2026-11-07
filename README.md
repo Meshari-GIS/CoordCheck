@@ -24,7 +24,7 @@
 - **Target ArcGIS Pro versions:** 3.3 to 3.7 on Windows.
 - **Minimum ArcGIS Pro version:** 3.3.
 - **Framework:** .NET 8.
-- **Add-in version:** CoordCheck 2.0.13.
+- **Add-in version:** CoordCheck 2.0.15.
 
 *The add-in's compatibility configuration has been verified. Full functionality has not been tested on every targeted ArcGIS Pro version.*
 
